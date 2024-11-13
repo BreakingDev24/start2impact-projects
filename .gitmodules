@@ -1,0 +1,18 @@
+[submodule "flight-carbon-footprint-s2i"]
+	path = flight-carbon-footprint-s2i
+	url = https://github.com/BreakingDev24/flight-carbon-footprint-s2i
+[submodule "vegetarian-app-s2i"]
+	path = vegetarian-app-s2i
+	url = https://github.com/BreakingDev24/vegetarian-app-s2i
+[submodule "includo-s2i"]
+	path = includo-s2i
+	url = https://github.com/BreakingDev24/includo-s2i
+[submodule "search-books-s2i"]
+	path = search-books-s2i
+	url = https://github.com/BreakingDev24/search-books-s2i
+[submodule "counter-s2i"]
+	path = counter-s2i
+	url = https://github.com/BreakingDev24/counter-s2i
+[submodule "antonio-avolio"]
+	path = antonio-avolio
+	url = https://github.com/BreakingDev24/antonio-avolio
